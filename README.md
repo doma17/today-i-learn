@@ -7,7 +7,7 @@
 
 ### 개요
 
-    자바 8부터 도입된 Lambda, Stream API, Optional Class 등 함수형 프로그래밍에 대한 깊은 이해와 함수형 사고방식을 키우기 위한 책입니다.
+> 자바 8부터 도입된 Lambda, Stream API, Optional Class 등 함수형 프로그래밍에 대한 깊은 이해와 함수형 사고방식을 키우기 위한 책입니다.
 
 ---
 ### 주요 단어 메모
