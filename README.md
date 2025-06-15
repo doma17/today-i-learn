@@ -19,19 +19,26 @@
 - **키워드**: `SOLID 원칙`, `SRP`, `KISS`, `DRY`, `코드 유지보수성`
 - **진행률**: ![30%](https://progress-bar.xyz/30)
 
-#### 3. [기술면접대비 CS전공 핵심요약집](./books/real-world-software-development.md)
+#### 3. [기술면접대비 CS전공 핵심요약집](./books/cs-interview.md)
 - **주제**: 기술 면접 대비 CS 전공 핵심요약집
-- **상태**: 시작 📖 (p / 2025.06.08)
+- **상태**: 시작 📖 (1p / 2025.06.08)
 - **키워드**: `OS`, `Network`, `DB`, `자료구조`, `알고리즘` 
 - **진행률**: ![0%](https://progress-bar.xyz/0)
+
+### Database & Cache
+
+#### 4. [Redis 자료구조를 이용한 사례](./redis/자료구조를이용한사례.md)
+- **주제**: Redis 자료구조 활용 및 실무 적용 사례
+- **상태**: 완료 ✅ (2025.06.15)
+- **키워드**: `Redis`, `Sorted Set`, `Bitmap`, `HyperLogLog`, `Geospatial`, `실시간 처리`
 
 ---
 
 ## 📊 Reading Statistics
 
-- **총 읽은 책**: 1권 완독, 1권 진행중
+- **총 읽은 책**: 2권 완독, 1권 진행중
 - **올해 목표**: 12권
-- **현재 진행률**: ![50%](https://progress-bar.xyz/10)
+- **현재 진행률**: ![17%](https://progress-bar.xyz/17)
 
 ---
 
@@ -39,12 +46,13 @@
 
 - **Java & Programming**: 함수형 프로그래밍, 소프트웨어 설계, 클린 코드
 - **Computer Science**: 운영체제, 네트워크, 데이터베이스, 자료구조 & 알고리즘
+- **Database & Cache**: Redis 자료구조, 실시간 데이터 처리, 캐싱 전략
 
 ---
 
 ## 🏷️ Tags
 
-`#Java` `#FunctionalProgramming` `#CleanCode` `#SoftwareEngineering` `#SOLID` `#StreamAPI` `#CS` `#OperatingSystem` `#Network` `#Database` `#DataStructure` `#Algorithm`
+`#Java` `#FunctionalProgramming` `#CleanCode` `#SoftwareEngineering` `#SOLID` `#StreamAPI` `#CS` `#OperatingSystem` `#Network` `#Database` `#DataStructure` `#Algorithm` `#Redis` `#Cache` `#NoSQL` `#RealTime`
 
 ---
 
